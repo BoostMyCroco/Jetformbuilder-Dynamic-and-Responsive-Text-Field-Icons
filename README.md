@@ -1,4 +1,4 @@
-# Dynamic and Responsive Text Field Icons
+# Jetformbuilder Dynamic and Responsive Text Field Icons
 
 This solution dynamically adds icons to text fields and ensures that the text does not overlap with the icons by calculating the `padding-left` dynamically. It is fully responsive and works for any text field with an icon.
 

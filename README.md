@@ -24,6 +24,19 @@ This solution dynamically adds icons to text fields and ensures that the text do
 2. Ensure the text fields have the class text-field-icon and a FontAwesome icon class (e.g., fa-envelope).
 3. The icons will be added automatically, and the padding-left will be calculated dynamically.
 
+---
+
+**Screenshots**
+
+![image](https://github.com/user-attachments/assets/17513085-1dc1-4d07-ba15-ccb09d2185f4)
+
+![image](https://github.com/user-attachments/assets/efd137be-3a17-447a-8207-516bde455823)
+
+![image](https://github.com/user-attachments/assets/b1e5a895-e76d-4495-b263-550550549ce2)
+
+---
+
+
 ## Code Implementation
 
 ### PHP (Filter to Add Icons and styles)
